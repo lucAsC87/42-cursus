@@ -22,7 +22,7 @@ Projects
 <a href="https://github.com/lucAsC87/ft_printf">![42 Badge](https://github.com/lucAsC87/42-cursus/blob/main/badges/ft_printfe.png)</a>
 <a href="">![42 Badge](https://github.com/lucAsC87/42-cursus/blob/main/badges/born2berootm.png)</a>
 <a href="https://github.com/lucAsC87/get_next_line">![42 Badge](https://github.com/lucAsC87/42-cursus/blob/main/badges/get_next_linem.png)</a>
-<a href="https://github.com/lucAsC87/minitalk">![42 Badge](https://github.com/lucAsC87/42-cursus/blob/main/badges/minitalken.png)</a>
+<a href="https://github.com/lucAsC87/minitalk">![42 Badge](https://github.com/lucAsC87/42-cursus/blob/main/badges/minitalkm.png)</a>
 <a href="">![42 Badge](https://github.com/lucAsC87/42-cursus/blob/main/badges/fract-oln.png)</a>
 
 </div>
