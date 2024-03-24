@@ -11,7 +11,7 @@ Repository for my projects within the 42 school in Florence. You can access each
 <i>How to read the badges:
 - Badges with a green border = Only mandatory part completed
 - Badges with a yellow border and star = Mandatory part + bonus completed
-- Badges without a border = Project to be developed</i>
+- Badges without a border = Project that I'm actually working on</i>
 
 <h2 align="center">
 Projects
